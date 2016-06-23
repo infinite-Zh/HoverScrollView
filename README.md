@@ -1,3 +1,3 @@
 # HoverScrollView
 
-带悬停效果的scrollView
+a scrollview with hover effect
